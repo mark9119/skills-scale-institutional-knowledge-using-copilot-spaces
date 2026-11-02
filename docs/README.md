@@ -1,16 +1,16 @@
 # OctoAcme Project Management Docs
 
-This repository contains the project management processes used by OctoAcme. It is intended to serve as a central onboarding and reference guide for the team, providing a clear overview of how work is initiated, planned, delivered, and improved over time.
+This repository contains the project management processes used by OctoAcme. It provides a central landing page for onboarding, reference, and execution planning across cross-functional work.
 
 ## Overview
 
-OctoAcme uses a lightweight, cross-functional project management model built around clear ownership, iterative delivery, and measurable outcomes. The approach starts with validating the business need and defining success metrics, then moves into planning, execution, risk management, release readiness, and retrospective learning. The goal is to keep stakeholders aligned, reduce ambiguity, and deliver value in small, testable increments.
+OctoAcme uses a lightweight, cross-functional project management model centered on clear ownership, iterative delivery, stakeholder alignment, and measurable outcomes. The process begins with validating the business need and defining success metrics, then moves into planning, execution, risk management, release readiness, and retrospective learning. The goal is to keep work visible, reduce ambiguity, and deliver value in small, testable increments.
 
 ## Project Management Process Summary
 
 - Initiation: validate the problem, align stakeholders, define success metrics, and decide whether to proceed with planning.
 - Planning: prioritize backlog items, estimate scope, define milestones, and identify dependencies, risks, and delivery responsibilities.
-- Execution: deliver work in iterations using a shared board and regular standups, reviews, and demos to maintain progress and visibility.
+- Execution: deliver work in iterations using a shared project board, daily standups, and milestone reviews to maintain visibility and momentum.
 - Risk and Communication: track blockers, assess impact and likelihood, escalate when needed, and share concise updates with stakeholders.
 - Release and Deployment: complete quality checks, prepare release notes, verify production readiness, and communicate outcomes to stakeholders and support teams.
 - Retrospective and Improvement: capture lessons learned, assign action items, and continuously improve team practices and delivery processes.
